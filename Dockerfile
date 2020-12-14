@@ -1,4 +1,4 @@
-FROM --platform=linux/arm64 alpine:latest
+FROM alpine:latest
 
 ARG VERSION=0.34.3
 ARG PLATFORM=linux_arm64
